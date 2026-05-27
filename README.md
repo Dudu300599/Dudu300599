@@ -18,9 +18,10 @@
 ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
 
 ## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dudu300599&show_icons=true&theme=dracula&v=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dudu300599&layout=compact&theme=dracula&v=1"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dudu300599&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dudu300599&layout=compact&theme=dracula"/>
 </div>
 
 ## 🚀 Projetos em Destaque
