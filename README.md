@@ -28,8 +28,8 @@ Sou estudante de Ciência da Computação.
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dudu300599&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dudu300599&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dudu300599&show_icons=true&theme=dracula&cache_seconds=900"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dudu300599&layout=compact&theme=dracula&cache_seconds=900"/>
 </div>
 
 ## 🚀 Projetos em Destaque
